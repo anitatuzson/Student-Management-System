@@ -1,0 +1,38 @@
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.exe
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.deps.json
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.runtimeconfig.json
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.runtimeconfig.dev.json
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\Student Management System.pdb
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.csproj.AssemblyReference.cache
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.Form1.resources
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.csproj.GenerateResource.cache
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.AssemblyInfoInputs.cache
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.AssemblyInfo.cs
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.pdb
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.genruntimeconfig.cache
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.Properties.Resources.resources
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.RegisterForm.resources
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.csproj.CopyComplete
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.ManageStudentForm.resources
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.PrintStudent.resources
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student Management System.csproj.ResolveComReference.cache
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.CourseForm.resources
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.ManageCourse.resources
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.ScoreForm.resources
+C:\Users\Anita\source\repos\Student Management System\Student Management System\obj\Debug\netcoreapp3.1\Student_Management_System.ManageScore.resources
